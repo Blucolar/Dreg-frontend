@@ -1,0 +1,14 @@
+.ul{
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    margin-right: 4rem;
+}
+
+.ul>a{
+    margin-right: 1rem;
+}
+
+.ul>a:last-child{
+    margin-right: 0;
+}

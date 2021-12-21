@@ -1,0 +1,13 @@
+.ul{
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+}
+
+.ul>li{
+    margin-right: 1rem;
+}
+
+.ul>li:last-child{
+    margin-right: 0;
+}
